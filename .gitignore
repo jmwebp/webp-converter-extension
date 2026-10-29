@@ -1,0 +1,16 @@
+# Dependencias
+node_modules/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Archivos de empaquetado
+*.zip
+*.crx
+*.pem
+
+# Editores
+.vscode/
+.idea/
